@@ -1,0 +1,2 @@
+# ZhiHaoPrediction-LiShenyueTrainTest
+志昊的自动生成材料化学式预测集代码，李深越的清洗好后的训练测试集
